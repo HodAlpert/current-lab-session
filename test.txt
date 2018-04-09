@@ -1,0 +1,10 @@
+Hex unsigned: ffffffff
+Octal unsigned: 37777777777
+Unsigned value: 15
+Unsigned value: 4294967281
+Print array of integers: {1, 2, 3, 4, 5}
+Print array of strings:  {This,  is,  array,  of,  strings}
+Non-padded string: str
+Right-padded string: str   #
+Left-padded string:    str
+With numeric placeholders: -0001
